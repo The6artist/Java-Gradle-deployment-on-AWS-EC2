@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Secrets and credentials
+*.pem
+*.key
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
